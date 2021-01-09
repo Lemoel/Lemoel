@@ -3,7 +3,7 @@
 ## Fala pessoas 👋
 Sou Engenheiro de Software com experiência na criação de aplicações Java de alto desempenho, escaláveis em ambientes de entrega contínua, utilizando arquitetura modular orientada a serviços em cloud(AWS - Amazon Web Service).
 
-Sou um eterno estudante de: Java, Cloud, Android, JavaScript, Arduino, Arquitetura, Spring, React etc....
+Sou um eterno estudante de: Java, Cloud, Android, JavaScript, Arduino, Arquitetura, Spring, React, NestJS, Kotlin etc....
 
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LemoelMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lemoelmarques/)](https://www.linkedin.com/in/lemoelmarques/) 
 | 
